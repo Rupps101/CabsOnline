@@ -2,7 +2,7 @@ import { useState } from 'react';
 import MapPicker from './MapPicker';
 import PaymentModal from './PaymentModal';
 
-const API = 'https://webdev.aut.ac.nz/~cwd7465/assign';
+const API = '/~cwd7465/assign';
 
 interface FormData {
   cname: string;

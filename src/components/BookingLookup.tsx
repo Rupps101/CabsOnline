@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const API = 'https://webdev.aut.ac.nz/~cwd7465/assign';
+const API = '/~cwd7465/assign';
 
 interface Booking {
   booking_ref: string;
